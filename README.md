@@ -1,7 +1,7 @@
 # Unit-Converter
 Unit Converter is the first project I've done in my BTech(1st Year) in C language. It is a command-line project.<br>
 The quantities available for conversion in this project are Temperature, Length, Mass, Area and Volume.<br>
-The conversions available for each quantity are:<br>
+<b>The conversions available for each quantity are:</b><br>
 <h2>Temperature Conversions:</h2>
 Fahrenheit to Celsius<br>
 Celsius to Fahrenheit<br>
